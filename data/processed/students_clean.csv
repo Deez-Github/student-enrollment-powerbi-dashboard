@@ -1,0 +1,31 @@
+Student_ID,Student_Name,Gender,Age,City,Program
+ST001,Amina Yusuf,Female,21,Lagos,Data Analytics
+ST002,Daniel Okoro,Male,23,Abuja,Computer Science
+ST003,Fatima Bello,Female,20,Kano,Business Administration
+ST004,Michael Ade,Male,25,Ibadan,Information Technology
+ST005,Grace Eze,Female,22,Enugu,Unknown
+ST006,Ibrahim Musa,Male,24,Kaduna,Computer Science
+ST007,Zainab Ali,Female,19,Lagos,Business Administration
+ST008,Samuel Obi,Male,26,Port Harcourt,Information Technology
+ST009,Mary Johnson,Female,23,Abuja,Data Analytics
+ST010,Tunde Adeyemi,Unknown,21,Ibadan,Computer Science
+ST011,Hauwa Ibrahim,Female,22,Unknown,Business Administration
+ST012,David Mensah,Male,24,Unknown,Information Technology
+ST013,Blessing Okafor,Female,20,Enugu,Data Analytics
+ST014,Yusuf Abdullahi,Male,27,Kaduna,Computer Science
+ST015,Sarah James,Female,25,Lagos,Business Administration
+ST016,Chinedu Nwosu,Male,22,Owerri,Information Technology
+ST017,Aisha Bello,Female,21,Unknown,Data Analytics
+ST018,Peter Williams,Male,23,Abuja,Computer Science
+ST019,Halima Sani,Female,24,Kano,Business Administration
+ST020,John Mark,Male,20,Ibadan,Information Technology
+ST021,Esther Paul,Female,26,Enugu,Data Analytics
+ST022,Musa Garba,Male,25,Kaduna,Computer Science
+ST023,Ruth Daniel,Female,22,Port Harcourt,Business Administration
+ST024,Emeka Umeh,Male,24,Owerri,Information Technology
+ST025,Nadia Ahmed,Female,19,Lagos,Data Analytics
+ST026,Victor Udo,Male,21,Uyo,Computer Science
+ST027,Joy Okeke,Female,23,Enugu,Business Administration
+ST028,Abdul Rahman,Male,26,Kano,Information Technology
+ST029,Linda George,Female,22,Abuja,Data Analytics
+ST030,Oluwaseun Adebayo,Male,24,Ibadan,Computer Science

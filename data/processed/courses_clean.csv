@@ -1,0 +1,11 @@
+Course_ID,Course_Name,Department,Instructor,Course_Level
+C001,Introduction to Data Analytics,Data Analytics,Dr. Ade,Beginner
+C002,SQL Fundamentals,Data Analytics,Mrs. Bello,Beginner
+C003,Power BI for Reporting,Data Analytics,Mr. Musa,Intermediate
+C004,Python Programming,Computer Science,Dr. Okoro,Beginner
+C005,Database Management,Computer Science,Mrs. James,Intermediate
+C006,Business Intelligence,Business Administration,Dr. Yusuf,Intermediate
+C007,Digital Marketing,Business Administration,Mr. Eze,Beginner
+C008,Web Technologies,Information Technology,Dr. Ali,Intermediate
+C009,Information Systems,Information Technology,Mrs. Adeyemi,Beginner
+C010,Data Visualization,Data Analytics,Mr. Johnson,Intermediate

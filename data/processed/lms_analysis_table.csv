@@ -1,0 +1,45 @@
+Enrollment_ID,Student_ID,Course_ID,Enrollment_Date,Score,Attendance_Rate,Status,Student_Name,Gender,Age,City,Student_Program,Course_Title,Course_Program,Instructor,Course_Level
+EN001,ST001,C001,,82.0,91,Passed,Amina Yusuf,Female,21.0,Lagos,Data Analytics,Introduction to Data Analytics,Data Analytics,Dr. Ade,Beginner
+EN002,ST001,C002,2026-01-10,76.0,88,Passed,Amina Yusuf,Female,21.0,Lagos,Data Analytics,SQL Fundamentals,Data Analytics,Mrs. Bello,Beginner
+EN003,ST002,C004,2026-01-09,89.0,94,Passed,Daniel Okoro,Male,23.0,Abuja,Computer Science,Python Programming,Computer Science,Dr. Okoro,Beginner
+EN004,,C005,2026-01-11,73.0,82,Passed,,,,,,Database Management,Computer Science,Mrs. James,Intermediate
+EN005,ST003,C006,2026-01-08,68.0,79,Passed,Fatima Bello,Female,20.0,Kano,Business Administration,Business Intelligence,Business Administration,Dr. Yusuf,Intermediate
+EN007,ST004,C008,2026-01-09,81.0,90,Passed,Michael Ade,Male,25.0,Ibadan,Information Technology,Web Technologies,Information Technology,Dr. Ali,Intermediate
+EN008,ST004,C009,2026-01-13,40.0,76,Failed,Michael Ade,Male,25.0,Ibadan,Information Technology,Information Systems,Information Technology,Mrs. Adeyemi,Beginner
+EN009,ST005,C001,2026-01-08,92.0,96,Passed,Grace Eze,Female,22.0,Enugu,Unknown,Introduction to Data Analytics,Data Analytics,Dr. Ade,Beginner
+EN011,ST006,C004,2026-01-09,78.0,86,Passed,Ibrahim Musa,Male,24.0,Kaduna,Computer Science,Python Programming,Computer Science,Dr. Okoro,Beginner
+EN012,ST006,C005,2026-01-14,71.0,80,Passed,Ibrahim Musa,Male,24.0,Kaduna,Computer Science,Database Management,Computer Science,Mrs. James,Intermediate
+EN013,ST007,C006,2026-01-10,84.0,92,Passed,Zainab Ali,Female,19.0,Lagos,Business Administration,Business Intelligence,Business Administration,Dr. Yusuf,Intermediate
+EN014,,C007,2026-01-16,69.0,77,Passed,,,,,,Digital Marketing,Business Administration,Mr. Eze,Beginner
+EN015,ST008,C008,2026-01-11,88.0,95,Passed,Samuel Obi,Male,26.0,Port Harcourt,Information Technology,Web Technologies,Information Technology,Dr. Ali,Intermediate
+EN016,ST008,C009,2026-01-17,72.0,81,Passed,Samuel Obi,Male,26.0,Port Harcourt,Information Technology,Information Systems,Information Technology,Mrs. Adeyemi,Beginner
+EN017,ST009,C001,2026-01-12,91.0,97,Passed,Mary Johnson,Female,23.0,Abuja,Data Analytics,Introduction to Data Analytics,Data Analytics,Dr. Ade,Beginner
+EN018,ST009,C003,2026-01-18,85.0,90,Passed,Mary Johnson,Female,23.0,Abuja,Data Analytics,Power BI for Reporting,Data Analytics,Mr. Musa,Intermediate
+EN019,ST010,C004,2026-01-13,67.0,74,Passed,Tunde Adeyemi,Unknown,21.0,Ibadan,Computer Science,Python Programming,Computer Science,Dr. Okoro,Beginner
+EN020,ST010,C005,2026-01-19,79.0,83,Passed,Tunde Adeyemi,Unknown,21.0,Ibadan,Computer Science,Database Management,Computer Science,Mrs. James,Intermediate
+EN021,ST011,C006,2026-01-14,73.0,88,Passed,Hauwa Ibrahim,Female,22.0,Unknown,Business Administration,Business Intelligence,Business Administration,Dr. Yusuf,Intermediate
+EN022,ST011,C007,2026-01-20,81.0,91,Passed,Hauwa Ibrahim,Female,22.0,Unknown,Business Administration,Digital Marketing,Business Administration,Mr. Eze,Beginner
+EN024,ST012,C009,2026-01-21,77.0,84,Passed,David Mensah,Male,24.0,Unknown,Information Technology,Information Systems,Information Technology,Mrs. Adeyemi,Beginner
+EN025,ST013,C001,2026-01-16,95.0,98,Passed,Blessing Okafor,Female,20.0,Enugu,Data Analytics,Introduction to Data Analytics,Data Analytics,Dr. Ade,Beginner
+EN026,ST013,C003,2026-01-22,90.0,96,Passed,Blessing Okafor,Female,20.0,Enugu,Data Analytics,Power BI for Reporting,Data Analytics,Mr. Musa,Intermediate
+EN028,ST014,C005,2026-01-23,62.0,75,Passed,Yusuf Abdullahi,Male,27.0,Kaduna,Computer Science,Database Management,Computer Science,Mrs. James,Intermediate
+EN029,ST015,C006,2026-01-18,,94,Passed,Sarah James,Female,25.0,Lagos,Business Administration,Business Intelligence,Business Administration,Dr. Yusuf,Intermediate
+EN030,ST015,C007,2026-01-24,78.0,87,Passed,Sarah James,Female,25.0,Lagos,Business Administration,Digital Marketing,Business Administration,Mr. Eze,Beginner
+EN031,ST016,C008,2026-01-19,70.0,79,Passed,Chinedu Nwosu,Male,22.0,Owerri,Information Technology,Web Technologies,Information Technology,Dr. Ali,Intermediate
+EN033,ST017,C001,2026-01-20,88.0,92,Passed,Aisha Bello,Female,21.0,Unknown,Data Analytics,Introduction to Data Analytics,Data Analytics,Dr. Ade,Beginner
+EN034,ST017,C003,2026-01-26,93.0,97,Passed,Aisha Bello,Female,21.0,Unknown,Data Analytics,Power BI for Reporting,Data Analytics,Mr. Musa,Intermediate
+EN036,ST018,C005,2026-01-27,69.0,78,Passed,Peter Williams,Male,23.0,Abuja,Computer Science,Database Management,Computer Science,Mrs. James,Intermediate
+EN037,ST019,C006,2026-01-22,82.0,89,Passed,Halima Sani,Female,24.0,Kano,Business Administration,Business Intelligence,Business Administration,Dr. Yusuf,Intermediate
+EN038,ST019,C007,2026-01-28,71.0,81,Passed,Halima Sani,Female,24.0,Kano,Business Administration,Digital Marketing,Business Administration,Mr. Eze,Beginner
+EN039,ST020,C008,2026-01-23,55.0,70,Failed,John Mark,Male,20.0,Ibadan,Information Technology,Web Technologies,Information Technology,Dr. Ali,Intermediate
+EN040,ST020,C009,2026-01-29,68.0,76,Passed,John Mark,Male,20.0,Ibadan,Information Technology,Information Systems,Information Technology,Mrs. Adeyemi,Beginner
+EN041,ST021,C001,2026-01-24,94.0,98,Passed,Esther Paul,Female,26.0,Enugu,Data Analytics,Introduction to Data Analytics,Data Analytics,Dr. Ade,Beginner
+EN042,ST021,C003,2026-01-30,89.0,95,Passed,Esther Paul,Female,26.0,Enugu,Data Analytics,Power BI for Reporting,Data Analytics,Mr. Musa,Intermediate
+EN043,ST022,C004,2026-01-25,80.0,87,Passed,Musa Garba,Male,25.0,Kaduna,Computer Science,Python Programming,Computer Science,Dr. Okoro,Beginner
+EN044,ST022,C005,2026-01-31,74.0,82,Passed,Musa Garba,Male,25.0,Kaduna,Computer Science,Database Management,Computer Science,Mrs. James,Intermediate
+EN045,ST023,C006,2026-01-26,67.0,77,Passed,Ruth Daniel,Female,22.0,Port Harcourt,Business Administration,Business Intelligence,Business Administration,Dr. Yusuf,Intermediate
+EN046,ST023,C007,2026-02-01,72.0,85,Passed,Ruth Daniel,Female,22.0,Port Harcourt,Business Administration,Digital Marketing,Business Administration,Mr. Eze,Beginner
+EN047,ST024,C008,2026-01-27,83.0,91,Passed,Emeka Umeh,Male,24.0,Owerri,Information Technology,Web Technologies,Information Technology,Dr. Ali,Intermediate
+EN048,ST024,C009,2026-02-02,76.0,84,Passed,Emeka Umeh,Male,24.0,Owerri,Information Technology,Information Systems,Information Technology,Mrs. Adeyemi,Beginner
+EN049,ST025,C001,2026-01-28,90.0,96,Passed,Nadia Ahmed,Female,19.0,Lagos,Data Analytics,Introduction to Data Analytics,Data Analytics,Dr. Ade,Beginner
+EN050,ST025,C003,2026-02-03,86.0,92,Passed,Nadia Ahmed,Female,19.0,Lagos,Data Analytics,Power BI for Reporting,Data Analytics,Mr. Musa,Intermediate
